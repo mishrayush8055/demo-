@@ -1,4 +1,4 @@
 Hello people 
 i am ayush 
-and this is my first project
+and this is my first thing
 
